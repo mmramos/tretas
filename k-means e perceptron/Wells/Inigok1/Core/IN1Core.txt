@@ -1,0 +1,86 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Images Information
+Depth units in feet
+
+
+           CORE      CORE      SLIDE     SLIDE
+WELL NAME  START     STOP      START     STOP      STRATIGRAPHIC UNIT            IMAGE
+INIGOK 1   2632.00   2662.00   2632.00   2646.00   NANUSHUK GROUP                1453001                                           
+INIGOK 1   2632.00   2662.00   2646.00   2660.00   NANUSHUK GROUP                1453002                                           
+INIGOK 1   2632.00   2662.00   2660.00   2662.00   NANUSHUK GROUP                1453003                                           
+INIGOK 1   3072.00   3082.00   3072.00   3082.00   NANUSHUK GROUP                1453003                                           
+INIGOK 1   4206.00   4216.00   4206.00   4216.00   TOROK FORMATION               1453004                                           
+INIGOK 1   5000.00   5010.00   5000.00   5003.00   TOROK FORMATION               1453004                                           
+INIGOK 1   5000.00   5010.00   5003.00   5010.00   TOROK FORMATION               1453005                                           
+INIGOK 1   7054.00   7064.00   7054.00   7059.00   TOROK FORMATION               1453005                                           
+INIGOK 1   7054.00   7064.00   7059.00   7064.00   TOROK FORMATION               1453006                                           
+INIGOK 1   8210.00   8240.00   8013.00   8019.00   TOROK FORMATION               1453006                                           
+INIGOK 1   8210.00   8240.00   8210.00   8213.00   TOROK FORMATION               1453007                                           
+INIGOK 1   8210.00   8240.00   8219.00   8232.00   TOROK FORMATION               1453008                                           
+INIGOK 1   8210.00   8240.00   8232.00   8240.00   TOROK FORMATION               1453009                                           
+INIGOK 1   8842.00   8852.00   8842.00   8848.00   TOROK FORMATION               1453009                                           
+INIGOK 1   8842.00   8852.00   8848.00   8852.00   TOROK FORMATION               1453010                                           
+INIGOK 1   9338.00   9348.00   9338.00   9346.00   KINGAK SHALE                  1453010                                           
+INIGOK 1   9338.00   9348.00   9346.00   9348.00   KINGAK SHALE                  1453011                                           
+INIGOK 1   9448.00   9458.00   9448.00   9458.00   KINGAK SHALE                  1453011                                           
+INIGOK 1   10295.00  10305.00  10295.00  10306.00  KINGAK SHALE                  1453012                                           
+INIGOK 1   10998.00  11008.00  10998.00  11001.00  KINGAK SHALE                  1453012                                           
+INIGOK 1   10998.00  11008.00  11001.00  11008.00  KINGAK SHALE                  1453013                                           
+INIGOK 1   11704.00  11714.00  11704.00  11710.00  KINGAK SHALE                  1453013                                           
+INIGOK 1   11704.00  11714.00  11710.00  11714.00  KINGAK SHALE                  1453014                                           
+INIGOK 1   12273.00  12283.00  12273.00  12281.00  SHUBLIK FORMATION             1453014                                           
+INIGOK 1   12273.00  12283.00  12281.00  12283.00  SHUBLIK FORMATION             1453015                                           
+INIGOK 1   12500.00  12530.00  12500.00  12511.00  FIRE CREEK SILTSTONE MEMBER   1453015                                           
+INIGOK 1   12500.00  12530.00  12511.00  12526.00  FIRE CREEK SILTSTONE MEMBER   1453016                                           
+INIGOK 1   12500.00  12530.00  12526.00  12529.00  FIRE CREEK SILTSTONE MEMBER   1453017                                           
+INIGOK 1   12705.00  12735.00  12705.00  12716.00  FIRE CREEK SILTSTONE MEMBER   1453017                                           
+INIGOK 1   12705.00  12735.00  12716.00  12730.00  FIRE CREEK SILTSTONE MEMBER   1453018                                           
+INIGOK 1   12705.00  12735.00  12730.00  12735.00  FIRE CREEK SILTSTONE MEMBER   1453019                                           
+INIGOK 1   13480.00  13510.00  13480.00  13510.00  KAVIK MEMBER                  1453019                                           
+INIGOK 1   13480.00  13510.00  13480.00  13488.50  KAVIK MEMBER                  1453020                                           
+INIGOK 1   13480.00  13510.00  13489.00  13502.00  KAVIK MEMBER                  1453021                                           
+INIGOK 1   13480.00  13510.00  13502.00  13510.00  KAVIK MEMBER                  1453022                                           
+INIGOK 1   13831.00  13880.00  13831.00  13837.00  ECHOOKA FORMATION             1453022                                           
+INIGOK 1   13831.00  13880.00  13837.00  13850.00  ECHOOKA FORMATION             1453023                                           
+INIGOK 1   13831.00  13880.00  13851.00  13865.00  ECHOOKA FORMATION             1453024                                           
+INIGOK 1   13831.00  13880.00  13865.00  13879.00  ECHOOKA FORMATION             1453025                                           
+INIGOK 1   13831.00  13880.00  13879.00  13880.00  ECHOOKA FORMATION             1453026                                           
+INIGOK 1   14020.00  14066.00  14020.00  14031.00  LISBURNE GROUP                1453026                                           
+INIGOK 1   14020.00  14066.00  14031.00  14045.00  LISBURNE GROUP                1453027                                           
+INIGOK 1   14020.00  14066.00  14045.00  14059.00  LISBURNE GROUP                1453028                                           
+INIGOK 1   14020.00  14066.00  14059.00  14065.00  LISBURNE GROUP                1453029                                           
+INIGOK 1   15185.00  15215.00  15185.00  15193.00  LISBURNE GROUP                1453029                                           
+INIGOK 1   15185.00  15215.00  15193.00  15207.00  LISBURNE GROUP                1453030                                           
+INIGOK 1   15185.00  15215.00  15207.00  15212.00  LISBURNE GROUP                1453032                                           
+INIGOK 1   15185.00  15215.00  15212.00  15215.00  LISBURNE GROUP                1453031                                           
+INIGOK 1   16185.00  16198.00  16185.00  16190.00  LISBURNE GROUP                1453032                                           
+INIGOK 1   16185.00  16198.00  16190.00  16197.00  LISBURNE GROUP                1453033                                           
+INIGOK 1   17053.00  17083.00  17053.00  17058.00  LISBURNE GROUP                1453033                                           
+INIGOK 1   17053.00  17083.00  17058.00  17072.00  LISBURNE GROUP                1453034                                           
+INIGOK 1   17053.00  17083.00  17072.00  17083.00  LISBURNE GROUP                1453035                                           
+INIGOK 1   19360.00  19372.00  19360.00  19362.00  ENDICOTT GROUP                1453035                                           
+INIGOK 1   19360.00  19372.00  19362.00  19372.00  ENDICOTT GROUP                1453036                                           
+INIGOK 1   20091.00  20102.00  20091.00  20093.00  ENDICOTT GROUP                1453036                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

@@ -1,0 +1,60 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Images Information
+Depth units in feet
+
+
+                   CORE      CORE      SLIDE     SLIDE
+WELL NAME          START     STOP      START     STOP      STRATIGRAPHIC UNIT                           IMAGE
+NORTH KALIKPIK 1   3810.00   3820.00   3810.00   3821.20   TOROK FORMATION                              1453037                                           
+NORTH KALIKPIK 1   4994.00   5004.00   4994.00   5004.00   TOROK FORMATION                              1453038                                           
+NORTH KALIKPIK 1   5871.00   5881.00   5871.00   5879.00   TOROK FORMATION                              1453039                                           
+NORTH KALIKPIK 1   6698.00   6708.00   6698.00   6703.60   TOROK FORMATION                              1453039                                           
+NORTH KALIKPIK 1   6698.00   6708.00   6703.60   6708.20   TOROK FORMATION                              1453040                                           
+NORTH KALIKPIK 1   6992.00   7026.00   6992.00   6999.10   PEBBLE SHALE UNIT                            1453040                                           
+NORTH KALIKPIK 1   6992.00   7026.00   6999.10   7011.00   PEBBLE SHALE UNIT                            1453041                                           
+NORTH KALIKPIK 1   6992.00   7026.00   7011.00   7023.10   PEBBLE SHALE UNIT                            1453042                                           
+NORTH KALIKPIK 1   6992.00   7026.00   7023.10   7033.90   PEBBLE SHALE UNIT                            1453043                                           
+NORTH KALIKPIK 1   6992.00   7026.00   7033.90   7047.00   PEBBLE SHALE UNIT                            1453044                                           
+NORTH KALIKPIK 1   7047.00   7107.00   7047.00   7060.70   PEBBLE SHALE UNIT                            1453045                                           
+NORTH KALIKPIK 1   7047.00   7107.00   7060.70   7074.50   PEBBLE SHALE UNIT                            1453046                                           
+NORTH KALIKPIK 1   7047.00   7107.00   7074.50   7088.20   PEBBLE SHALE UNIT                            1453047                                           
+NORTH KALIKPIK 1   7047.00   7107.00   7088.20   7099.00   PEBBLE SHALE UNIT                            1453048                                           
+NORTH KALIKPIK 1   7047.00   7107.00   7099.00   7107.00   PEBBLE SHALE UNIT                            1453049                                           
+NORTH KALIKPIK 1   1107.00   1136.00   7107.00   7115.40   PEBBLE SHALE UNIT                            1453049                                           
+NORTH KALIKPIK 1   1107.00   1136.00   7115.40   7129.40   PEBBLE SHALE UNIT                            1453050                                           
+NORTH KALIKPIK 1   1107.00   1136.00   7129.40   7136.00   PEBBLE SHALE UNIT                            1453051                                           
+NORTH KALIKPIK 1   7136.00   7139.00   7136.00   7140.00   PEBBLE SHALE UNIT                            1453051                                           
+NORTH KALIKPIK 1   7139.00   7159.00   7140.00   7152.40   PEBBLE SHALE UNIT, KINGAK SHALE, UNDIVIDED   1453052                                           
+NORTH KALIKPIK 1   7139.00   7159.00   7152.40   7161.00   PEBBLE SHALE UNIT, KINGAK SHALE, UNDIVIDED   1453053                                           
+NORTH KALIKPIK 1   7159.00   7161.00   7161.00   7163.00   KINGAK SHALE                                 1453053                                           
+NORTH KALIKPIK 1   7161.00   7165.00   7163.00   7165.00   KINGAK SHALE                                 1453053                                           
+NORTH KALIKPIK 1   7165.00   7167.00   7165.00   7179.00   KINGAK SHALE                                 1453054                                           
+NORTH KALIKPIK 1   7165.00   7167.00   7179.00   7194.00   KINGAK SHALE                                 1453055                                           
+NORTH KALIKPIK 1   7165.00   7167.00   7194.00   7207.90   KINGAK SHALE                                 1453056                                           
+NORTH KALIKPIK 1   7165.00   7167.00   7207.90   7222.00   KINGAK SHALE                                 1453057                                           
+NORTH KALIKPIK 1   7165.00   7167.00   7222.00   7225.00   KINGAK SHALE                                 1453058                                           
+NORTH KALIKPIK 1   7225.00   7230.00   7225.00   7230.00   KINGAK SHALE                                 1453058                                           
+NORTH KALIKPIK 1   7390.00   7395.00   7390.00   7395.00   KINGAK SHALE                                 1453058                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

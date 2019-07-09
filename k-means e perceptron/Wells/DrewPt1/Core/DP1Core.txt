@@ -1,0 +1,61 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015 
+
+
+Core Photographs Information
+Depth units in feet
+
+               CORE      CORE      SLIDE     SLIDE
+WELL NAME      START     STOP      START     STOP      STRATIGRAPHIC UNIT                                     IMAGE
+DREW POINT 1   4130.00   4140.00   4130.00   4131.00   TOROK FORMATION                                        0462009                                           
+DREW POINT 1   4130.00   4140.00   4131.00   4140.00   TOROK FORMATION                                        0462010                                           
+DREW POINT 1   5530.00   5540.00   5537.00   5540.00   TOROK FORMATION                                        0462010                                           
+DREW POINT 1   5900.00   5923.00   5900.00   5902.80   TOROK FORMATION                                        0462010                                           
+DREW POINT 1   5900.00   5923.00   5903.00   5917.90   TOROK FORMATION                                        0462011                                           
+DREW POINT 1   6910.00   6912.00   6905.00   6906.50   KINGAK SHALE                                           0462012                                           
+DREW POINT 1   6917.00   6947.00   6917.00   6928.00   KINGAK SHALE                                           0462012                         
+DREW POINT 1   6917.00   6947.00   6928.00   6943.00   KINGAK SHALE                                           0462013                                           
+DREW POINT 1   6947.00   6957.00   6948.00   6957.00   KINGAK SHALE, SAG RIVER SANDSTONE, UNDIVIDED           0462014                                           
+DREW POINT 1   6977.00   7009.00   6977.00   6979.80   KINGAK SHALE, SAG RIVER SANDSTONE, UNDIVIDED           0462014                                           
+DREW POINT 1   6977.00   7009.00   6980.00   6995.50   SAG RIVER SANDSTONE                                    0462015                                           
+DREW POINT 1   6977.00   7009.00   6996.00   7008.50   SAG RIVER SANDSTONE                                    0462016                                           
+DREW POINT 1   7093.00   7103.00   7093.00   7103.80   SHUBLIK FORMATION                                      0462017                                           
+DREW POINT 1   7350.00   7380.00   7350.00   7350.80   SHUBLIK FORMATION                                      0462017                                           
+DREW POINT 1   7350.00   7380.00   7350.80   7364.20   SHUBLIK FORMATION                                      0462018                                           
+DREW POINT 1   7350.00   7380.00   7364.20   7377.30   SHUBLIK FORMATION                                      0462019                                           
+DREW POINT 1   7350.00   7380.00   7377.30   7380.00   SHUBLIK FORMATION                                      0462020                                           
+DREW POINT 1   7544.00   7572.00   7544.00   7552.90   SHUBLIK FORMATION, LEDGE SANDSTONE MEMBER, UNDIVIDED   0462020                                           
+DREW POINT 1   7544.00   7572.00   7552.90   7566.00   SHUBLIK FORMATION, LEDGE SANDSTONE MEMBER, UNDIVIDED   0462021                                           
+DREW POINT 1   7544.00   7572.00   7566.00   7572.00   SHUBLIK FORMATION, LEDGE SANDSTONE MEMBER, UNDIVIDED   0462022                                           
+DREW POINT 1   7572.00   7602.00   7572.00   7577.00   LEDGE SANDSTONE MEMBER                                 0462022                                           
+DREW POINT 1   7572.00   7602.00   7577.00   7590.80   LEDGE SANDSTONE MEMBER                                 0462023                                           
+DREW POINT 1   7572.00   7602.00   7590.80   7601.00   LEDGE SANDSTONE MEMBER                                 0462024                                           
+DREW POINT 1   7602.00   7629.00   7602.00   7603.50   LEDGE SANDSTONE MEMBER                                 0462024                                           
+DREW POINT 1   7602.00   7629.00   7603.50   7616.80   LEDGE SANDSTONE MEMBER                                 0462025                                           
+DREW POINT 1   7602.00   7629.00   7616.80   7630.20   LEDGE SANDSTONE MEMBER                                 0462026                                           
+DREW POINT 1   7704.00   7733.00   7704.00   7713.00   LEDGE SANDSTONE MEMBER                                 0462027                                           
+DREW POINT 1   7704.00   7733.00   7713.00   7727.00   LEDGE SANDSTONE MEMBER                                 0462028                                           
+DREW POINT 1   7793.00   7821.00   7793.00   7807.80   LEDGE SANDSTONE MEMBER                                 0462029                                           
+DREW POINT 1   7793.00   7821.00   7808.00   7814.80   LEDGE SANDSTONE MEMBER                                 0462030                                           
+DREW POINT 1   7882.00   7901.00   7882.00   7887.30   ARGILLITE                                              0462030                                           
+DREW POINT 1   7882.00   7901.00   7887.30   7901.00   ARGILLITE                                              0462031                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

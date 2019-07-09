@@ -1,0 +1,60 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+            CORE      CORE      SLIDE     SLIDE
+WELL NAME   START     STOP      START     STOP      STRATIGRAPHIC UNIT                         IMAGE
+KUYANAK 1   4965.00   5024.00   4965.00   4968.50   PEBBLE SHALE UNIT                          1450001                                           
+KUYANAK 1   4965.00   5024.00   4968.50   4977.40   PEBBLE SHALE UNIT                          1450002                                           
+KUYANAK 1   4965.00   5024.00   4977.40   4988.80   PEBBLE SHALE UNIT                          1450003                                           
+KUYANAK 1   4965.00   5024.00   4988.80   5000.30   PEBBLE SHALE UNIT                          1450004                                           
+KUYANAK 1   4965.00   5024.00   5000.30   5011.50   PEBBLE SHALE UNIT                          1450005                                           
+KUYANAK 1   4965.00   5024.00   5011.90   5023.20   PEBBLE SHALE UNIT                          1450006                                           
+KUYANAK 1   5024.00   5075.00   5024.00   5035.40   PEBBLE SHALE UNIT                          1450007                                           
+KUYANAK 1   5024.00   5075.00   5035.40   5046.70   PEBBLE SHALE UNIT                          1450008                                           
+KUYANAK 1   5024.00   5075.00   5046.70   5058.10   PEBBLE SHALE UNIT                          1450009                                           
+KUYANAK 1   5024.00   5075.00   5058.10   5069.10   PEBBLE SHALE UNIT                          1450010                                           
+KUYANAK 1   5024.00   5075.00   5069.10   5074.90   PEBBLE SHALE UNIT                          1450011                                           
+KUYANAK 1   5093.00   5153.00   5093.00   5105.00   PEBBLE SHALE UNIT                          1450012                                           
+KUYANAK 1   5093.00   5153.00   5105.00   5117.00   PEBBLE SHALE UNIT                          1450013                                           
+KUYANAK 1   5093.00   5153.00   5117.00   5128.00   PEBBLE SHALE UNIT                          1450014                                           
+KUYANAK 1   5093.00   5153.00   5128.00   5139.00   PEBBLE SHALE UNIT                          1450015                                           
+KUYANAK 1   5093.00   5153.00   5139.00   5151.00   PEBBLE SHALE UNIT                          1450016                                           
+KUYANAK 1   5153.00   5186.00   5153.00   5163.60   BASAL SANDSTONE                            1450017                                           
+KUYANAK 1   5153.00   5186.00   5163.00   5175.00   BASAL SANDSTONE, KINGAK SHALE, UNDIVIDED   1450018                                           
+KUYANAK 1   5153.00   5186.00   5175.00   5186.00   KINGAK SHALE                               1450019                                           
+KUYANAK 1   6204.00   6236.00   6203.00   6206.70   KINGAK SHALE                               1450020                                           
+KUYANAK 1   6204.00   6236.00   6206.70   6214.90   KINGAK SHALE                               1450021                                           
+KUYANAK 1   6204.00   6236.00   6214.90   6225.40   KINGAK SHALE                               1450022                                           
+KUYANAK 1   6204.00   6236.00   6225.40   6236.00   KINGAK SHALE                               1450023                                           
+KUYANAK 1   6254.00   6314.00   6254.00   6261.80   SAG RIVER SANDSTONE                        1450024                                           
+KUYANAK 1   6254.00   6314.00   6261.80   6270.20   SAG RIVER SANDSTONE                        1450025                                           
+KUYANAK 1   6254.00   6314.00   6270.20   6280.90   SAG RIVER SANDSTONE                        1450026                                           
+KUYANAK 1   6254.00   6314.00   6280.90   6291.70   SAG RIVER SANDSTONE                        1450027                                           
+KUYANAK 1   6254.00   6314.00   6291.70   6303.10   SAG RIVER SANDSTONE                        1450028                                           
+KUYANAK 1   6254.00   6314.00   6303.10   6314.00   SAG RIVER SANDSTONE                        1450029                                           
+KUYANAK 1   6682.00   6690.00   6682.00   6689.90   BASEMENT                                   1450030                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

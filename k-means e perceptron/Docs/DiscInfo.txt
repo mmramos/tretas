@@ -1,0 +1,137 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015 
+
+
+Disc Information
+
+This disc contains information about and data from eleven wells in the National 
+Petroleum Reserve in Alaska. The following data types are provided for each 
+well: 
+    o Core Images 
+    o Depths to Selected Stratigraphic Horizons 
+    o Geological and Drilling Reports 
+    o Well Core Gamma Ray Data 
+    o LAS-Format Well Log Data 
+    o Permeability, Porosity, and Grain Density Data 
+
+All files are ASCII text with the exception of the Core Image files, which are 
+.GIF binary image file format. 
+
+
+Disc Structure
+
+The files on this disc are arranged using the following folder hierarchy:
+ 
+Root (Top Level) Folder 
+ Wells Folder 
+  {Well Folder Name} Folder 
+   Core Folder 
+   GammaRay Folder 
+   LAS Folder 
+   PDF Folder 
+   PNP Folder 
+   Tops Folder 
+
+
+Folder Descriptions
+
+Root (Top Level) Folder
+The Root, or Top level, Folder contains: 
+    o Docs subfolder 
+    o Wells subfolder 
+    o WorkShop.htm - the "homepage" for this disc. 
+    o README.txt - an introduction to this disc. 
+
+Docs Folder
+The Docs folder has HTML files which provide: 
+    o Documentation about data sources. 
+    o Acnowledgements. 
+    o Disclaimer. 
+    o Author Information. 
+
+Wells Folder
+The Wells folder contains:
+
+    o WellIdx.htm: an HTML index to the well folders. 
+    o A subfolder for each well included on this disc.
+    o Most files contained in a well subfolder and its subfolders are named 
+      starting with a prefix indicating the well to which the file applies.
+    o Well folder names and prefixes for the individual wells included on this 
+      disc are:
+ 
+   
+    Well Folder Names and File Prefixes per Well
+
+    Well Name         Folder    File Name Prefix
+    Drew Point 1      DrewPt1        DP1
+    East Simpson 1    ESimp1         ES1
+    Ikpikpuk 1        Ikpik1         IK1
+    Inigok 1          Inigok1        IN1
+    J.W. Dalton 1     JWDalt1        JWD1
+    Kuyanak 1         Kuyanak1       KU1
+    North Inigok 1    NInigok1       NI1
+    North Kalikpik 1  NKalik1        NK1
+    Peard 1           Peard1         PE1
+    South Meade 1     SMeade1        SM1
+    West Dease 1      WDease1        WD1
+        
+
+
+{Well Folder Name} Folders
+Each of the Well Folders listed in the table above contains: 
+    o README.txt 
+    o Index.htm - An HTML index of the individual subfolders shown below. 
+    o {PREFIX}Doc.htm - An HTML file documenting the data sources for the data in 
+      the individual subfolders shown below. 
+    
+    Core Folder
+    Graphic image files of well core. 
+        o GIF-format graphic image files of well core. 
+        o {PREFIX}Core.htm - An HTML file which indexes the core image files. 
+        o {PREFIX}Core.txt - A text file which indexes the core image files. 
+        o README.txt 
+    
+    GammaRay Folder
+    Well core gamma ray data. 
+        o {PREFIX}GR.htm - An HTML file which describes the well core gamma ray 
+          data. 
+        o {PREFIX}GR.las - A LAS-format log file of the well core gamma ray data. 
+        o README.txt 
+
+    LAS Folder
+    LAS-format well log data. 
+        o {PREFIX}LAS.htm - An HTML file which describes the well log data. 
+        o {PREFIX}.las - A LAS-format log file of the well log data. 
+        o README.txt 
+
+    PDF Folder
+    Geological and Drilling History reports in Adobe Acrobat PDF format. 
+        o {PREFIX}DRILL.pdf - Drilling history. 
+        o {PREFIX}GEOL.pdf - Geological report. 
+        o {PREFIX}PDF.htm - An HTML file which indexes the PDF files. 
+        o README.txt 
+
+    PNP Folder
+    Permeability and Porosity Data 
+        o {PREFIX}PNP.htm - An HTML file which describes the permeability and 
+          porosity data. 
+        o {PREFIX}PNP.txt - A text file which describes the permeability and 
+          porosity data. 
+        o README.txt 
+
+    Tops Folder
+    Depths to Selected Stratigraphic Horizons 
+        o {PREFIX}PNP.htm - An HTML file which describes the stratigraphic horizons 
+          data. 
+        o {PREFIX}PNP.txt - A text file which describes the stratigraphic horizons 
+          data. 
+        o README.txt 
+
+

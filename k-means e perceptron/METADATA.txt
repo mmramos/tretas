@@ -1,0 +1,977 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        U.S. Geological Survey/Geologic Division/
+        Central Region Energy Team
+      Publication_Date: 1999
+      Title: USGS OF99-015: Selected Data from Eleven Wildcat Wells in the 
+             National Petroleum Reserve in Alaska
+      Edition: 1
+      Geospatial_Data_Presentation_Form: 
+  Description:
+    Abstract:
+      Between 1978 and 1981, the U.S. Geological Survey drilled 27
+      wells in the National Petroleum Reserve in Alaska.  This
+      publication presents the following data from eleven of those
+      27 wells: general information, well core images, depths to
+      specific stratigraphic units, well core gamma ray logs
+      in LAS format, well log information in LAS format, geological
+      and drilling history reports in Adobe Acrobat PDF format, and
+      permeability and porosity data.
+    Purpose:
+      These data were collected and distributed in support of the USGS
+      NPRA Core Workshop held March 24th to 26th, 1999.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1978
+        Ending_Date: 1981
+    Currentness_Reference: Ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -159.0007
+      East_Bounding_Coordinate: -152.3678
+      North_Bounding_Coordinate: 71.15916
+      South_Bounding_Coordinate: 70.00485
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: USGS Central Region Energy Team
+      Theme_Keyword: land geophysics
+      Theme_Keyword: well
+      Theme_Keyword: NPRA
+      Theme_Keyword: log
+      Theme_Keyword: core
+      Theme_Keyword: petroleum exploration
+      Theme_Keyword:
+        National Petroleum Reserve in
+        Alaska
+      Theme_Keyword: NPRA Core Workshop
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Alaska
+      Place_Keyword:
+        National Petroleum Reserve in
+        Alaska
+      Place_Keyword: NPRA
+  Access_Constraints: None
+  Use_Constraints:
+    Please recognize the U.S. Geological Survey (USGS) Central
+    Region Energy Team as the source of this information.
+    These data were prepared by an agency of the United States
+    Government.  Neither the United States Government nor any
+    agency thereof nor any of their employees makes any warranty,
+    expressed or implied, or assumes any legal responsibility for
+    the accuracy, completeness, or usefulness of any information,
+    apparatus, product, or process disclosed in this report or
+    represents that its use would not infringe privately owned
+    rights. Reference therein to any specific commercial
+    product, process, or service by trade name, trademark,
+    manufacturer, or otherwise does not necessarily constitute
+    or imply its endorsement, recommendation, or favoring by the
+    United States Government or any agency thereof.
+    Although these data have been used by the USGS, no warranty,
+    expressed or implied, is made by the USGS as to the accuracy
+    of the data and related materials and (or) the functioning of
+    the software. The act of distribution shall not constitute any
+    such warranty, and no responsibility is assumed by the USGS in
+    the use of these data, software, or related materials.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS/Geologic Division/Central Region Energy Team
+        Contact_Person:  Zihlman, Frederick N.
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: Mailing and Physical address
+        Address: Bldg. 25, Rm. 2815-A, MS-939, Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: USA
+      Contact_Voice_Telephone: 303-236-5741
+      Contact_TDD/TTY_Telephone: None
+      Contact_Facsimile_Telephone: 303-236-8822
+      Contact_Electronic_Mail_Address: zihlman@usgs.gov
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Identified as the best available version.
+  Logical_Consistency_Report: Unspecified
+  Completeness_Report: Ground
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Identified as the most complete available.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Unspecified
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date: 1983
+          Publication_Time:
+          Title: Split Well Core on Slides
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+              National Oceanic and Atmospheric Administration
+              National Geophysical Data Center
+          Other_Citation_Details:
+            NOAA NGDC Data Set Number: TGY-0240
+            NOAA NGDC Data Announcement: 83-TGB-09
+      Source_Scale_Denominator:
+      Type_of_Source_Media: 35mm Color Slides
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: 35mm Slides
+      Source_Contribution:
+        These 35mm slides were copied to Kodak PhotoCD
+        and then exported to GIF-format images for use
+        in this publication.
+    Process_Step:
+      Process_Description:
+        35mm slides converted to PhotoCD and then exported to GIF-format image files.
+      Source_Used_Citation_Abbreviation: 35mm Slides
+      Process_Date: 1994 - 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Well Core Images, GIF-Format
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S.G.S.
+          Publication_Date: 1982
+          Publication_Time: 
+          Title:
+            Table 15.3. - Total depth and depths to selected
+            stratigraphic horizons for Government-drilled wells
+            on the North Slope of Alaska., in:
+            Gryc, George, Ed., 1988, Geology and exploration of the
+            National Petroleum Reserve in Alaska, 1974 to 1982,
+            U.S. Geological Survey Professional Paper 1399,
+            Pgs. 322 - 324.
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name: USGS Professional Paper
+            Issue_Identification: Professional Paper 1399
+          Publication_Information:
+            Publication_Place:
+            Publisher: USGS
+          Other_Citation_Details:
+      Source_Scale_Denominator:
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Stratigraphic Horizons
+      Source_Contribution: Table presents depths to specific stratigraphic horizons per well.
+    Process_Step:
+      Process_Description:
+        Table 15.3 hand-entered into ASCII text files by well name.
+      Source_Used_Citation_Abbreviation: Stratigraphic Horizons
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Stratigraphic Horizons, ASCII Text Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Core Laboratories, Inc.
+          Publication_Date: 1979
+          Publication_Time: unknown
+          Title:
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place:
+            Publisher: Core Laboratories, Inc.
+          Other_Citation_Details:
+      Source_Scale_Denominator:
+      Type_of_Source_Media: Mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Gamma Ray Log Data Displays
+      Source_Contribution:
+        These analog gamma ray log data displays were digitized into
+        LAS-format digital well log files.
+    Process_Step:
+      Process_Description:
+        Gamma ray log displays digitized into LAS-format digital
+        log files.
+      Source_Used_Citation_Abbreviation: Gamma Ray Log Data Displays
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: LAS-Format Gamma Ray Logs
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            National Oceanic and Atmospheric Administration
+            National Geophysical Data Center
+          Publication_Date: 1983
+          Publication_Time: unknown
+          Title:
+            History of Drilling Operations for 35 NPRA Wells
+            Geological Reports for 31 Wells
+            Construction and Design Reports for 7 Wells
+            and Various Miscellaneous Operations Reports
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher: NOAA
+          Other_Citation_Details:
+            Data Set Number: TGY-0180
+            Data Announcement: 83-TGB-13
+      Source_Scale_Denominator:
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Geological Reports
+      Source_Contribution:
+        These reports were scanned into Adobe Acrobat PDF files.
+    Process_Step:
+      Process_Description:
+        Daily Geological Reports scanned into Adobe Acrobat PDF files.
+      Source_Used_Citation_Abbreviation: Geological Reports
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Geological Report PDF Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            National Oceanic and Atmospheric Administration
+            National Geophysical Data Center
+          Publication_Date: 1981
+          Publication_Time: unknown
+          Title: Well Logs, 1981
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher: NOAA
+          Other_Citation_Details:
+            Daily Geological Reports
+            Data Set Number: TGY-0110
+            Data Announcement: 81-TGB-25
+      Source_Scale_Denominator:
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Daily Geological Reports
+      Source_Contribution:
+        These reports were scanned into Adobe Acrobat PDF files.
+    Process_Step:
+      Process_Description:
+        Daily Geological Reports scanned into Adobe Acrobat PDF files.
+      Source_Used_Citation_Abbreviation: Daily Geological Reports
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Geological Report PDF Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            National Oceanic and Atmospheric Administration
+            National Geophysical Data Center
+          Publication_Date: 1983
+          Publication_Time: unknown
+          Title:
+            History of Drilling Operations for 35 NPRA Wells
+            Geological Reports for 31 Wells
+            Construction and Design Reports for 7 Wells
+            and Various Miscellaneous Operations Reports
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher: NOAA
+          Other_Citation_Details:
+            Data Set Number: TGY-0180
+            Data Announcement: 83-TGB-13
+      Source_Scale_Denominator:
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Drilling History Reports
+      Source_Contribution:
+        These reports were scanned into Adobe Acrobat PDF files.
+    Process_Step:
+      Process_Description:
+        Geological and Drilling History reports scanned into
+        Adobe Acrobat PDF files.
+      Source_Used_Citation_Abbreviation: Drilling History Reports
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Drilling History PDF Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date:
+          Publication_Time:
+          Title: Well Logs, 1977-1978
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+              National Oceanic and Atmospheric Administration
+              National Geophysical Data Center
+          Other_Citation_Details:
+            Data Set Name: Well Logs, 1977-78
+            Data Set Number: TGY-0020
+            Data Announcement: 1979(U)
+      Source_Scale_Denominator:
+      Type_of_Source_Media: mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1977
+            Beginning_Time:
+            Ending_Date: 1978
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Mylar Well Logs
+      Source_Contribution:
+        These well logs were digitized into LAS-format well
+        log files for this publication.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date:
+          Publication_Time:
+          Title: Well Logs, 1978-1979
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+             National Oceanic and Atmospheric Administration
+             National Geophysical Data Center
+          Other_Citation_Details:
+            Data Set Name: Well Logs, 1978-79
+            Data Set Number: TGY-0040
+            Data Announcement: 1980 SE-J
+      Source_Scale_Denominator:
+      Type_of_Source_Media: mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1978
+            Beginning_Time:
+            Ending_Date: 1979
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Mylar Well Logs
+      Source_Contribution:
+        These well logs were digitized into LAS-format well
+        log files for this publication.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date:
+          Publication_Time:
+          Title: Well Logs, 1979-1980
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+              National Oceanic and Atmospheric Administration
+              National Geophysical Data Center
+          Other_Citation_Details:
+            Data Set Name: Well Logs, 1979-80
+            Data Set Number: TGY-0080
+            Data Announcement: 1981 SE-E
+      Source_Scale_Denominator:
+      Type_of_Source_Media: mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1979
+            Beginning_Time:
+            Ending_Date: 1980
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Mylar Well Logs
+      Source_Contribution:
+        These well logs were digitized into LAS-format well
+        log files for this publication.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date:
+          Publication_Time:
+          Title: Well Logs, 1981
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+              National Oceanic and Atmospheric Administration
+              National Geophysical Data Center
+          Other_Citation_Details:
+            Data Set Name: Well Logs, 1981
+            Data Set Number: TGY-0110
+            Data Announcement: 81-TGB-25
+      Source_Scale_Denominator:
+      Type_of_Source_Media: mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1981
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Mylar Well Logs
+      Source_Contribution:
+        These well logs were digitized into LAS-format well
+        log files for this publication.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA
+          Publication_Date:
+          Publication_Time:
+          Title: Gamma Ray Logs of Well Cores
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place: Boulder, CO
+            Publisher:
+              National Oceanic and Atmospheric Administration
+              National Geophysical Data Center
+          Other_Citation_Details:
+            Data Set Name: Gamma Ray Logs of Well Cores
+            Data Set Number: TGY-0140
+            Data Announcement: 83-TGB-09
+      Source_Scale_Denominator:
+      Type_of_Source_Media: mylar
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1983
+            Beginning_Time:
+            Ending_Date: 1983
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Mylar Well Logs
+      Source_Contribution:
+        These well logs were digitized into LAS-format well
+        log files for this publication.
+    Process_Step:
+      Process_Description:
+        Well logs digitized into LAS-format digital well logs.
+        Digital data content quality checked and edited.
+        Digital files stored in LAS log format.
+      Source_Used_Citation_Abbreviation: Mylar Well Logs
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: LAS-Format Digital Well Logs
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Core Laboratories, Inc.
+          Publication_Date:
+          Publication_Time:
+          Title:
+          Edition:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place:
+            Publisher:
+          Other_Citation_Details:
+      Source_Scale_Denominator:
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1979
+            Beginning_Time:
+            Ending_Date: 1981
+            Ending_Time:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation: Permeabiltiy and Porosity, Paper Reports
+      Source_Contribution:
+        These paper reports were hand-entered into ASCII text files
+        for this publication.
+    Process_Step:
+      Process_Description:
+        Paper reports of permeability and porosity data hand-entered into
+        ASCII text files.
+      Source_Used_Citation_Abbreviation: Permeabiltiy and Porosity, Paper Reports
+      Process_Date: 1998
+      Process_Time:
+      Source_Produced_Citation_Abbreviation: Permeabiltiy and Porosity, ASCII Text Files
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey, Central Region
+            Contact_Person: F.N. Zihlman
+          Contact_Position: Physical Scientist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              U.S. Geological Survey
+              Energy Resource Program
+              Denver Federal Center, MS 939
+            City: Denver
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: 303-236-5741
+          Contact_TDD/TTY_Telephone:
+          Contact_Facsimile_Telephone: 303-236-8822
+          Contact_Electronic_Mail_Address: nersl@usgs.gov
+          Hours_of_Service: 9 a.m. - 3 p.m. local time U.S. Rocky Mountain Time Zone
+          Contact_Instructions:
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: None
+  Direct_Spatial_Reference_Method: Point
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.0001
+      Longitude_Resolution: 0.0001
+      Geographic_Coordinate_Units: Decimal Degrees
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: None
+      Altitude_Resolution:
+      Altitude_Distance_Units:
+      Altitude_Encoding_Method:
+    Depth_System_Definition:
+      Depth_Datum_Name: None
+      Depth_Resolution:
+      Depth_Distance_Units:
+      Depth_Encoding_Method:
+
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview: Well Core Images, GIF format.
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         Images   Depth Range, Feet
+      DREW POINT 1      23       4130 - 7901
+      EAST SIMPSON 1    16       2674 - 7738
+      IKPIKPUK 1        24       2930 - 15467
+      INIGOK 1          36       2632 - 20093
+      J.W. DALTON 1     38       3503 - 9365
+      KUYANAK 1         30       4965 - 6689
+      NORTH INIGOK 1     8       4022 - 10170
+      NORTH KALIKPIK 1  22       3810 - 7395
+      PEARD 1           17       3034 - 10225
+      SOUTH MEADE 1     12       3010 - 9326
+      WEST DEASE 1      34        600 - 4151
+    Entity_and_Attribute_Overview: Stratigraphic Horizons, ASCII text files.
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1Tops.txt
+      EAST SIMPSON 1    ES1Tops.txt
+      IKPIKPUK 1        IK1Tops.txt
+      INIGOK 1          IN1Tops.txt
+      J.W. DALTON 1     JWD1Tops.txt
+      KUYANAK 1         KU1Tops.txt
+      NORTH INIGOK 1    NI1Tops.txt
+      NORTH KALIKPIK 1  NK1Tops.txt
+      PEARD 1           PE1Tops.txt
+      SOUTH MEADE 1     SM1Tops.txt
+      WEST DEASE 1      WD1Tops.txt
+    Entity_and_Attribute_Overview: Drilling History PDF Files.
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1DRILL.pdf
+      EAST SIMPSON 1    ES1DRILL.pdf
+      IKPIKPUK 1        IK1DRILL.pdf
+      INIGOK 1          IN1DRILL.pdf
+      J.W. DALTON 1     JWD1DRIL.pdf
+      KUYANAK 1         KU1DRILL.pdf
+      NORTH INIGOK 1    NI1DRILL.pdf
+      NORTH KALIKPIK 1  NK1DRILL.pdf
+      PEARD 1           PE1DRILL.pdf
+      SOUTH MEADE 1     SM1DRILL.pdf
+      WEST DEASE 1      WD1DRILL.pdf
+    Entity_and_Attribute_Overview: Geological Reports PDF Files.
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1GEOL.pdf
+      EAST SIMPSON 1    ES1GEOL.pdf
+      IKPIKPUK 1        IK1GEOL.pdf
+      INIGOK 1          IN1GEOL.pdf
+      J.W. DALTON 1     JWD1GEOL.pdf
+      KUYANAK 1         KU1GEOL.pdf
+      NORTH INIGOK 1    NI1GEOL.pdf
+      NORTH KALIKPIK 1  NK1GEOL.pdf
+      PEARD 1           PE1GEOL.pdf
+      SOUTH MEADE 1     SM1GEOL.pdf
+      WEST DEASE 1      WD1GEOL.pdf
+    Entity_and_Attribute_Overview: LAS-Format Gamma Ray Logs
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1GR.las
+      EAST SIMPSON 1    ES1GR.las
+      IKPIKPUK 1        IK1GR.las
+      J.W. DALTON 1     JWD1GR.las
+      KUYANAK 1         KU1GR.las
+      NORTH KALIKPIK 1  NK1GR.las
+      PEARD 1           PE1GR.las
+      WEST DEASE 1      WD1GR.las
+    Entity_and_Attribute_Overview: LAS-Format Digital Well Logs
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1.las
+      EAST SIMPSON 1    ES1.las
+      IKPIKPUK 1        IK1.las
+      INIGOK 1          IN1.las
+      J.W. DALTON 1     JWD1.las
+      KUYANAK 1         KU1.las
+      NORTH INIGOK 1    NI1.las
+      NORTH KALIKPIK 1  NK1.las
+      PEARD 1           PE1.las
+      SOUTH MEADE 1     SM1.las
+      WEST DEASE 1      WD1.las
+    Entity_and_Attribute_Overview: Permeabiltiy and Porosity Data, ASCII text files.
+    Entity_and_Attribute_Detail_Citation:
+      Well Name         File Name
+      DREW POINT 1      DP1PNP.txt
+      EAST SIMPSON 1    ES1PNP.txt
+      IKPIKPUK 1        IK1PNP.txt
+      INIGOK 1          IN1PNP.txt
+      J.W. DALTON 1     JWD1PNP.txt
+      KUYANAK 1         KU1PNP.txt
+      NORTH INIGOK 1    NI1PNP.txt
+      PEARD 1           PE1PNP.txt
+      WEST DEASE 1      WD1PNP.txt
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S.G.S. Earth Science Information Center
+          (ESIC), Denver, CO
+        Contact_Person:
+      Contact_Position:
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          U.S. Geological Survey
+          Box 25286, Building 810
+          Denver Federal Center
+        City: Denver
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 303-202-4200
+      Contact_TDD/TTY_Telephone:
+      Contact_Facsimile_Telephone: 303-202-4188
+      Contact_Electronic_Mail_Address: infoservices@usgs.gov
+      Hours_of_Service:
+      Contact_Instructions:
+  Resource_Description: USGS OF99-015: Selected Data from Eleven Wildcat Wells 
+                        in the National Petroleum Reserve in Alaska.
+  Distribution_Liability:
+    Please recognize the U.S. Geological Survey (USGS) Central
+    Region Energy Team as the source of this information.
+    These data were prepared by an agency of the United States
+    Government.  Neither the United States Government nor any
+    agency thereof nor any of their employees makes any warranty,
+    expressed or implied, or assumes any legal responsibility for
+    the accuracy, completeness, or usefulness of any information,
+    apparatus, product, or process disclosed in this report or
+    represents that its use would not infringe privately owned
+    rights. Reference therein to any specific commercial
+    product, process, or service by trade name, trademark,
+    manufacturer, or otherwise does not necessarily constitute
+    or imply its endorsement, recommendation, or favoring by the
+    United States Government or any agency thereof.
+    Although these data have been used by the USGS, no warranty,
+    expressed or implied, is made by the USGS as to the accuracy
+    of the data and related materials and (or) the functioning of
+    the software. The act of distribution shall not constitute any
+    such warranty, and no responsibility is assumed by the USGS in
+    the use of these data, software, or related materials.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: LAS
+        Format_Information_Content: Digital well log data
+      Digital_Transfer_Option:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: GIF
+        Format_Information_Content: Graphic image files
+      Digital_Transfer_Option:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ASCII
+        Format_Information_Content: Text, documentation
+      Digital_Transfer_Option:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: HTML
+        Format_Information_Content: Text, documentation
+      Digital_Transfer_Option:
+    Fees:
+    Ordering_Instructions:
+      To order CD-ROM you need to contact USGS Earth Science
+      Information Center (ESIC) by mail or call 1-800-USA-MAPS.
+  Custom_Order_Process: None
+  Technical_Prerequisites: None
+
+Metadata_Reference_Information:
+  Metadata_Date: 19981228
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS/Geologic Division/Central Region Energy Team
+        Contact_Person: Zihlman, Frederick N.
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: Mailing and Physical address
+        Address: Bldg. 25, Rm. 2815-A, MS-939, Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: USA
+      Contact_Voice_Telephone: 303-236-5741
+      Contact_TDD/TTY_Telephone: None
+      Contact_Facsimile_Telephone: 303-236-8822
+      Contact_Electronic_Mail_Address: zihlman@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: Version 1.0 (06/08/1994)
+  Metadata_Time_Convention: Local time

@@ -1,0 +1,138 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+J.W. Dalton 1 Data Sources 
+    
+(1) Core Photographs
+Data originally released through:
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO 
+
+Data Set Name: Split Well Core on Slides
+Data Set Number: TGY-0240
+Data Announcement: 83-TGB-09 
+
+
+
+(2) Stratigraphic Horizons
+Table 15.3. - Total depth and depths to selected 
+stratigraphic horizons for Government-drilled wells 
+on the North Slope of Alaska., in:
+            
+Gryc, George, Ed., 1988, Geology and exploration of the National 
+Petroleum Reserve in Alaska, 1974 to 1982, U.S. Geological Survey 
+Professional Paper 1399, Pgs. 322 - 324. 
+
+
+
+(3) Core Gamma Ray Data
+Analyzed by:
+Core Laboratories, Inc.
+516 E. 18th Street
+Bakersfield, CA 93305
+1979
+            
+Digitized by:
+Center Line Data
+3000 Youngfield Street
+Suite 300
+Lakewood, CO 80215
+1998 
+
+
+
+(4) Geological Report
+J.W. Dalton Test Well No. 1
+            
+Prepared by: Harry Haywood
+Edited by: Gordon W. Legg
+Husky Oil NPR Operations, Inc.
+2525 "C" Street, Suite 400
+Anchorage, AK 99503
+August 1983 
+
+Originally distributed by:
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO 
+
+Data Set Name:
+History of Drilling Operations for 35 NPRA Wells
+Geological Reports for 31 Wells
+Construction and Design Reports for 7 Wells
+and Various Miscellaneous Operations Reports
+Data Set Number: TGY-0180
+Data Announcement: 83-TGB-13 
+
+
+
+(5) Drilling Report
+History of Drilling Operations
+J.W. Dalton Test Well No. 1
+            
+Edited by: S.L. Hewitt and R.G. Brockway
+Husky Oil NPR Operations, Inc.
+2525 "C" Street, Suite 400
+Anchorage, AK 99503
+September 1982 
+
+Originally distributed by:
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO 
+
+Data Set Name:
+History of Drilling Operations for 35 NPRA Wells
+Geological Reports for 31 Wells
+Construction and Design Reports for 7 Wells
+and Various Miscellaneous Operations Reports
+Data Set Number: TGY-0180
+Data Announcement: 83-TGB-13 
+
+
+
+(6) LAS Log(s)
+Data originally released through:
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO 
+
+Data Set Name: Well Logs, 1978-79
+Data Set Number: TGY-0040
+Data Announcement: 1980 SE-J 
+
+The log curves in the JWD1.LAS file were digitized from the 
+following Mylar well logs:
+Data Set TGY-0040, Item 039, DUAL INDUCTION LATERLOG
+Data Set TGY-0040, Item 041, BOREHOLE COMPENSATED SONIC
+Data Set TGY-0040, Item 051, COMPENSATED NEUTRON FORMATION DENSITY
+Data Set TGY-0040, Item 052, COMPENSATED FORMATION DENSITY 
+
+Digitized by:
+Center Line Data
+3000 Youngfield Street
+Suite 300
+Lakewood, CO 80215
+1998 
+
+Digitization quality checked by Phil Nelson, USGS, December 1998, 
+against the log displays presented in the plates from 
+USGS Professional Paper 1399.
+ 
+Data editing performed by Joyce Kibler, USGS, December 1998. 
+
+
+
+(7) Permeability and Porosity Data
+Data from: Core Laboratories, Inc.
+Dates: 7/6/79, 6/14/79 
+    

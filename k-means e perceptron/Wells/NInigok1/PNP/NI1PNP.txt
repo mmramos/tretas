@@ -1,0 +1,30 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Permeability, Porosity, and Grain Density Information
+
+Well: North Inigok 1
+Location:  North Slope, Alaska
+Data from:  Core Laboratories (1 sheet)
+Dates:  3/27/81
+
+
+ Depth   Permeability  Porosity  Grain     Cores  Remarks
+  feet    Horizontal   percent   Density
+         millidarcies             g/cc
+  610        4.74        26.2     2.76   sidewall ss, vf-fgr sid
+  1649      298.00       35.1     2.69   sidewall ss, vf-fgr
+  1804      82.00        33.0     2.68   sidewall ss, vf-fgr
+  1926      833.00       30.2     2.62   sidewall ss, f-mgr
+  2048      207.00       34.4     2.66   sidewall ss, vf-mgr fn carb lams
+  2248      175.00       32.1     2.56   sidewall ss, vf-fgr carb lams
+  2460      72.00        30.1     2.70   sidewall ss, vf-fgr slty
+  2562      47.00        28.6     2.66   sidewall ss, vf-fgr slty

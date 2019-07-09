@@ -1,0 +1,76 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Permeability, Porosity, and Grain Density Information
+
+Well:  Ikpikpuk 1
+Location:  North Slope, Alaska
+Data from:  Core Laboratories (4 sheets)
+Drilling fluid:  WBM
+Dates:  3/5/79, 3/5/79, 2/11/79, 6/6/79
+Core measurement method:  porosity by Boyles law method.
+
+ Depth   Permeability     Porosity        Grain      Core Type Remarks
+  feet    Horizontal       percent        Density
+         millidarcies                      g/cc
+  7135        0.8            4.8           2.70       diamond  sltst, sdy
+  7136        0.0            4.5           2.69       diamond  sltst, sdy
+  7139        0.1           11.3           2.69       diamond  ss, vfg, v slty
+  7140        0.1            8.4           2.69       diamond  ss, vfg, v slty
+  7141        0.1           12.7           2.69       diamond  ss, vfg, v slty
+  7142        0.0           12.9           2.69       diamond  ss, vfg, v slty
+  7466       37.0           20.5                      sidewall ss, vfg, v cly
+ 10619        0.8           17.2           2.67       diamond  ss, vfg, slty
+ 10621        4.6           17.4           2.68       diamond  ss, vfg, slty
+ 10623        9.8           19.5           2.66       diamond  ss, vfg, slty
+ 10625        5.6           18.7           2.69       diamond  ss, vfg, slty
+ 10627        5.2           18.7           2.68       diamond  ss, vfg, slty
+ 10629        5.3           19.4           2.66       diamond  ss, vfg, slty
+ 10631        1.0           15.0           2.70       diamond  ss, vfg, sc pyr
+ 10633        0.0            6.8           2.80       diamond  ss, vfg, sc pyr
+ 10635        0.0            6.0           2.70       diamond  ss, vfg, shly, sc pyr
+ 10637        0.0            7.0           2.80       diamond  ss, vfg, shly, sc pyr
+ 10639        0.4            8.7           2.72       diamond  ss, vfg, shly, sc pyr
+ 10641        0.6           13.7           2.70       diamond  ss, vfg, slty
+ 10643        0.0            8.0           2.82       diamond  ss, vfg, slty
+ 10645        0.0            4.2           2.86       diamond  ss, vfg, slty
+ 10647        1.4           16.9           2.70       diamond  ss, vfg, slty
+ 10649        0.8           13.8           2.67       diamond  ss, vfg, slty
+ 10815        0.8           13.8           2.68       diamond  ss, vf-fg, slty
+ 10817        5.3           11.4           2.68       diamond  ss, vf-fg, slty
+ 10819        0.4           10.0           2.67       diamond  ss, vf-fg, slty
+ 10821        1.0            8.9           2.74       diamond  ss, vf-fg, slty
+ 10823        8.5           12.4           2.67       diamond  ss, vf-fg, slty
+ 10825        0.1            6.5           2.67       diamond  ss, vf-fg, slty
+ 10827       20.0           14.4           2.68       diamond  ss, vf-fg, slty
+ 10829        4.2           10.4           2.67       diamond  ss, vf-fg, slty
+ 10831        0.1            5.4           2.70       diamond  ss, vfg, slty
+ 10833        0.2            5.9           2.68       diamond  ss, vfg, slty
+ 10835        0.3            7.9           2.67       diamond  ss, vf-fg, slty
+ 10837        0.3            6.5           2.69       diamond  ss, vf-fg, cly & sltst peb
+ 10839        0.2            6.3           2.78       diamond  ss, vf-fg, cly & sltst peb, sc pyr
+ 10841        0.3            8.0           2.67       diamond  ss, vfg, slty
+ 12994       13.0           22.4           2.66       sidewall ss, vfg, slty
+
+
+Well:  Ikpikpuk 1
+Location:  North Slope, Alaska
+Data from:  unknown laboratory, unknown date.
+Publication:  State of Alaska Geologic Materials Center, Data Report # 70
+
+ Depth    Routine Lab      In-Situ      Routine Lab   Ambient      In-Situ      Grain
+  feet   Permeability    Klinkenberg     Porosity     Helium        Helium     Density
+         millidarcies   Permeability      percent     Porosity     Porosity      g/cc
+                        millidarcies                  percent      percent
+ 7139.2       0.1          0.0036           8.4         9.8          9.3         2.72
+ 7141.2       0.1          0.0292          12.7         13.6         12.6        2.71
+ 7142.2       0.0          0.0064          12.9         13.1         11.9        2.70
+ 7143.1                    0.0207                       13.4         12.3        2.70

@@ -1,0 +1,45 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+                CORE      CORE      SLIDE     SLIDE
+WELL NAME       START     STOP      START     STOP      STRATIGRAPHIC UNIT                                  IMAGE
+SOUTH MEADE 1   3010.00   3020.00   3010.00   3020.50   TOROK FORMATION                                     1451013                                           
+SOUTH MEADE 1   4010.00   4020.00   4010.00   4011.00   TOROK FORMATION                                     1451014                                           
+SOUTH MEADE 1   4950.00   4961.00   4950.00   4960.00   TOROK FORMATION                                     1451014                                           
+SOUTH MEADE 1   5992.00   6002.00   5992.40   6002.50   TOROK FORMATION                                     1451015                                           
+SOUTH MEADE 1   7500.00   7504.00   7500.00   7503.00   KINGAK SHALE                                        1451015                                           
+SOUTH MEADE 1   8489.00   8519.00   8490.00   8503.00   KINGAK SHALE                                        1451016                                           
+SOUTH MEADE 1   8489.00   8519.00   8505.00   8518.00   KINGAK SHALE                                        1451017                                           
+SOUTH MEADE 1   8819.00   8873.00   8819.00   8831.00   SAG RIVER FORMATION, SHUBLIK FORMATION, UNDIVIDED   1451018                                           
+SOUTH MEADE 1   8819.00   8873.00   8832.00   8845.00   SAG RIVER FORMATION, SHUBLIK FORMATION, UNDIVIDED   1451019                                           
+SOUTH MEADE 1   8819.00   8873.00   8845.00   8859.00   SAG RIVER FORMATION, SHUBLIK FORMATION, UNDIVIDED   1451020                                           
+SOUTH MEADE 1   8819.00   8873.00   8859.00   8873.00   SAG RIVER FORMATION, SHUBLIK FORMATION, UNDIVIDED   1451021                                           
+SOUTH MEADE 1   9040.00   9059.00   9042.00   9056.00   SHUBLIK FORMATION                                   1451022                                           
+SOUTH MEADE 1   9040.00   9059.00   9056.00   9059.00   SHUBLIK FORMATION                                   1451023                                           
+SOUTH MEADE 1   9305.00   9328.00   9305.00   9315.00   FIRE CREEK SILTSTONE MEMBER                         1451023                                           
+SOUTH MEADE 1   9305.00   9328.00   9315.00   9326.00   FIRE CREEK SILTSTONE MEMBER                         1451024                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

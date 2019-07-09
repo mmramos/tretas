@@ -1,0 +1,64 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+             CORE      CORE      SLIDE     SLIDE
+WELL NAME    START     STOP      START     STOP      STRATIGRAPHIC UNIT                           IMAGE
+IKPIKPUK 1   2930.00   2960.00   2930.00   2943.00   NANUSHUK GROUP, TOROK FORMATION, UNDIVIDED   0462032                                           
+IKPIKPUK 1   2930.00   2960.00   2943.00   2958.00   NANUSHUK GROUP, TOROK FORMATION, UNDIVIDED   0462033                                           
+IKPIKPUK 1   2930.00   2960.00   2958.00   2961.00   NANUSHUK GROUP, TOROK FORMATION, UNDIVIDED   0462034                                           
+IKPIKPUK 1   3784.00   3812.00   3784.00   3795.00   TOROK FORMATION                              0462034                                           
+IKPIKPUK 1   3784.00   3812.00   3795.00   3810.00   TOROK FORMATION                              0462035                                           
+IKPIKPUK 1   3784.00   3812.00   3810.00   3812.00   TOROK FORMATION                              0462036                                           
+IKPIKPUK 1   5690.00   5700.00   5690.00   5700.00   TOROK FORMATION                              0462036                                           
+IKPIKPUK 1   7132.00   7143.00   7132.00   7143.00   TOROK FORMATION                              0462037                                           
+IKPIKPUK 1   7368.00   7378.00   7368.00   7371.00   PEBBLE SHALE UNIT                            0462038                                           
+IKPIKPUK 1   7368.00   7378.00   7369.00   7371.00   PEBBLE SHALE UNIT                            0462037                                           
+IKPIKPUK 1   7368.00   7378.00   7371.00   7377.00   PEBBLE SHALE UNIT                            0462039                                           
+IKPIKPUK 1   7491.00   7501.00   7491.00   7498.00   KINGAK SHALE                                 0462039                                           
+IKPIKPUK 1   7491.00   7501.00   7498.00   7501.00   KINGAK SHALE                                 0462040                                           
+IKPIKPUK 1   10270.00  10300.00  10270.00  10280.00  SHUBLIK FORMATION                            0462040                                           
+IKPIKPUK 1   10270.00  10300.00  10280.00  10295.00  SHUBLIK FORMATION                            0462041                                           
+IKPIKPUK 1   10270.00  10300.00  10295.00  10300.00  SHUBLIK FORMATION                            0462042                                           
+IKPIKPUK 1   10619.00  10649.00  10619.00  10626.00  LEDGE SANDSTONE MEMBER                       0462042                                           
+IKPIKPUK 1   10619.00  10649.00  10626.00  10641.00  LEDGE SANDSTONE MEMBER                       0462043                                           
+IKPIKPUK 1   10619.00  10649.00  10641.00  10649.00  LEDGE SANDSTONE MEMBER                       0462044                                           
+IKPIKPUK 1   10815.00  10842.00  10815.00  10821.00  LEDGE SANDSTONE MEMBER                       0462044                                           
+IKPIKPUK 1   10815.00  10842.00  10821.00  10836.00  LEDGE SANDSTONE MEMBER                       0462045                                           
+IKPIKPUK 1   10815.00  10842.00  10836.00  10842.00  LEDGE SANDSTONE MEMBER                       0462046                                           
+IKPIKPUK 1   111080.00 11135.00  11108.00  11117.00  KAVIK MEMBER                                 0462046                                           
+IKPIKPUK 1   111080.00 11135.00  11108.00  11117.00  KAVIK MEMBER                                 0462047                                           
+IKPIKPUK 1   111080.00 11135.00  11117.00  11132.00  KAVIK MEMBER                                 0462048                                           
+IKPIKPUK 1   111080.00 11135.00  11132.00  11135.00  KAVIK MEMBER                                 0462049                                           
+IKPIKPUK 1   11718.00  11733.00  11718.00  11730.00  LISBURNE GROUP                               0462049                                           
+IKPIKPUK 1   11718.00  11733.00  11718.00  11730.00  LISBURNE GROUP                               0462050                                           
+IKPIKPUK 1   11718.00  11733.00  11730.00  11733.00  LISBURNE GROUP                               0462051                                           
+IKPIKPUK 1   12743.00  12753.00  12743.00  12750.00  LISBURNE GROUP                               0462051                                           
+IKPIKPUK 1   12743.00  12753.00  12750.00  12753.00  LISBURNE GROUP                               0462052                                           
+IKPIKPUK 1   14971.00  14986.00  14971.00  14980.00  LISBURNE GROUP                               0462053                                           
+IKPIKPUK 1   14971.00  14986.00  14980.00  14986.00  LISBURNE GROUP                               0462054                                           
+IKPIKPUK 1   15421.00  15424.00  15421.00  15422.00  BASEMENT                                     0462055                                           
+IKPIKPUK 1   15462.00  15468.00  15463.00  15467.00  BASEMENT                                     0462055                                           
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

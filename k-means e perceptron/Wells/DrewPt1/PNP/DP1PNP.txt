@@ -1,0 +1,99 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+Permeability, Porosity, and Grain Density Information
+
+Well:  Drew Point 1
+Location:  North Slope, Alaska
+Data from:  Core Laboratories (3 sheets)
+Drilling fluid:  WBM
+Dates:  2/9/78, 3/2/78, 3/27/78
+
+
+ Depth   Permeability  Permeability  Porosity  Grain       Oil       Total    Core Type     Analysis Type      Core    Remarks
+  feet    Horizontal     Vertical    percent   Density  Saturation   Water                                    Number
+         millidarcies  millidarcies             g/cc     percent    percent
+  5900       0.2           0.0         6.0      2.68                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5901       0.0           0.0         1.4      2.65                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5902       0.1           0.0         7.8      2.69                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5903       0.1           0.0         7.8      2.71                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5904       0.0           0.0         6.6      2.68                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5905       0.1           0.0         7.3      2.70                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  5906       0.1                       6.6      2.73                         conventional  Boyles porosity      3      ss, vfg, v slty, cly
+  6971                                 26.8                4.3       59.2      sidewall      Dean-Stark                ss, vfg, slty, cly
+  6975                                 28.9                4.6       55.0      sidewall      Dean-Stark                ss, vfg, slty, cly
+  6977       0.1           0.2         11.8     2.64       4.2       83.9    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6978       0.1           0.1         10.2     2.67       9.9       68.1    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6979       0.1           0.1         12.5     2.65       10.7      62.0    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6980       0.1           0.1         10.9     2.64       8.9       63.4    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6981       0.1           0.1         10.9     2.66       0.0       87.8    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6982       0.0           0.1         9.7      2.67       2.1       83.1    conventional  Boyles porosity      7      ss, vfg, v slty, clt, shly
+  6983       0.0           0.0         4.6      2.68       0.0       76.5    conventional  Boyles porosity      7      ss, vfg, v slty, cly
+  6984       0.1           0.0         9.1      2.67       1.6       77.2    conventional  Boyles porosity      7      ss, vfg, v slty, clt, shly
+  6985                                 7.0      2.72       3.1       73.7    conventional  Boyles porosity      7      sltst, shly
+  6986       0.1           0.1         8.3      2.66       0.0       71.2    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6987       0.0           0.0         4.0      2.68       0.0       65.9    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6988       0.2           0.0         7.8      2.68       1.8       88.7    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6989       0.0           0.0         3.9      2.67       0.0       86.8    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6990       0.1           0.0         7.4      2.68       0.0       82.7    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6991       0.1           0.0         5.3      2.69       0.0       85.9    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6992       0.1           0.0         8.2      2.69       7.0       81.0    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6993       0.1           0.0         5.5      2.68       1.6       85.4    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6994       0.1           0.0         8.2      2.69       0.0       74.1    conventional  Boyles porosity      7      ss, vfg, c slty, shly
+  6995       0.0           0.0         2.8      2.67       3.6       83.5    conventional  Boyles porosity      7      sltst, sdy
+  6996       0.0           0.0         7.7      2.70       1.6       84.6    conventional  Boyles porosity      7      sltst, v sdy, v shly
+  6997       0.5           0.0         7.6      2.70       1.8       85.3    conventional  Boyles porosity      7      sltst, sdy, shly
+  6998       4.6           0.0         6.4      2.72       0.0       89.1    conventional  Boyles porosity      7      sltst, sdy, shly
+  6999       0.0           0.0         3.1      2.69       0.0       86.3    conventional  Boyles porosity      7      sltst, sdy
+  7000       0.1           0.0         6.9      2.69       3.9       78.7    conventional  Boyles porosity      7      sltst, sdy
+  7001       0.5           0.0         7.6      2.70       1.8       85.3    conventional  Boyles porosity      7      sltst, sdy, shly
+  7002       0.4           0.1         10.0     2.72       7.7       83.3    conventional  Boyles porosity      7      sltst, sdy, shly
+  7003       0.1           0.0         10.0     2.69       0.0       88.5    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7004       0.0           0.1         9.0      2.69       0.0       89.6    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7005       0.1           0.0         11.1     2.70       0.0       91.3    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7006       0.2           0.1         16.8     2.71       1.0       81.4    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7007       0.1           0.1         13.1     2.68       1.1       88.9    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7008       0.1           0.1         12.2     2.72       1.2       91.1    conventional  Boyles porosity      7      ss, vfg, slty, shly
+  7024                                 22.9                0.0       79.5      sidewall      Dean-Stark                ss, vfg, slty, cly
+  7028                                 27.8                0.0       76.1      sidewall      Dean-Stark                ss, vfg, slty, cly
+  7032                                 25.2                23.4      51.2      sidewall      Dean-Stark                ss, vfg, slty, cly
+  7034                                 28.0                12.9      57.1      sidewall      Dean-Stark                ss, vfg, slty, cly, sc carb
+  7640                                 25.5                0.0       84.6      sidewall      Dean-Stark                ss, vfg, slty, cly, sc carb
+  7650                                 23.4                0.0       82.1      sidewall      Dean-Stark                ss, vfg, slty, v cly
+  7680                                 21.8                0.0       89.8      sidewall      Dean-Stark                ss, vfg, slty, v cly
+  7693                                 25.7                0.0       92.1      sidewall      Dean-Stark                ss, vf-cg, cly, sc carb
+  7773                                 22.6                4.7       80.0      sidewall      Dean-Stark                ss, vfg, v cly, slty
+  7776                                 28.2                3.1       74.1      sidewall      Dean-Stark                ss, vfg, v cly, slty
+  7793       0.1           0.2         8.0      2.78       10.2      65.1    conventional  Boyles porosity      14     ss, vfg, slty, sid
+  7794       0.1           0.1         7.5      2.71       0.0       79.4    conventional  Boyles porosity      14     ss, vfg, slty, cht
+  7795       0.1           0.0         6.9      2.70       9.4       63.8    conventional  Boyles porosity      14     ss, vfg, slty, cht
+  7796       0.1           0.1         4.2      2.69       3.1       67.7    conventional  Boyles porosity      14     ss, vfg, slty, cht
+  7797       0.4           0.1         10.8     2.66       12.1      56.3    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7798       0.3           0.2         10.8     2.66       5.3       44.5    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7799       0.2           0.2         9.9      2.64       13.4      46.9    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7800       1.0           0.3         12.6     2.68       3.2       42.0    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7801       0.2           0.1         9.1      2.66       6.0       65.5    conventional  Boyles porosity      14     ss, vf-fg, slty, cht
+  7802       0.4           0.2         10.7     2.66       10.4      48.3    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7803       0.5           0.3         11.3     2.65       8.0       41.0    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7804       0.4           0.2         10.5     2.64       10.2      41.0    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7805       0.6           0.3         10.9     2.71       5.6       44.8    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7806       0.2           0.1         8.8      2.66       9.2       39.6    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7807       0.2           0.1         9.8      2.65       16.6      61.6    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7808       0.2           0.2         9.7      2.68       13.6      40.9    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7809       0.9           0.7         11.9     2.64       13.6      36.2    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7810       0.5           0.3         10.8     2.66       17.7      38.0    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7811       0.4           0.4         11.5     2.64       15.2      37.7    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7812       8.4           0.1         13.2     2.85       24.9      49.8    conventional  Boyles porosity      14     ss, vf-fg, slty, sid
+  7813       1.0           0.7         11.7     2.72       23.7      26.5    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7814       0.8           0.5         11.7     2.66       25.2      32.3    conventional  Boyles porosity      14     ss, vf-fg, slty
+  7832                                 13.8                1.2       89.4      sidewall      Dean-Stark                ss, vfg, indb carb
+  7834                                 26.1                1.6       75.3      sidewall      Dean-Stark                ss, vf-fg, slty, cly
+  7836                                 23.2                3.0       83.3      sidewall      Dean-Stark                ss, vf-fg, slty, cly
+  7838                                 23.5                0.7       60.0      sidewall      Dean-Stark                ss, vf-fg, slty, cly

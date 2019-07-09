@@ -1,0 +1,68 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+                CORE      CORE      SLIDE     SLIDE
+WELL NAME       START     STOP      START     STOP       STRATIGRAPHIC UNIT          IMAGE
+J.W. DALTON 1   3500.00   3530.00   3503.00   3510.50    NANUSHUK GROUP              1452001                                           
+J.W. DALTON 1   3500.00   3530.00   3510.00   3520.00    NANUSHUK GROUP              1452002                                           
+J.W. DALTON 1   3500.00   3530.00   3520.00   3530.00    NANUSHUK GROUP              1452003                                           
+J.W. DALTON 1   4667.00   4697.00   4667.00   4677.30    TOROK FORMATION             1452004                                           
+J.W. DALTON 1   4667.00   4697.00   4677.30   4689.00    TOROK FORMATION             1452005                                           
+J.W. DALTON 1   4667.00   4697.00   4689.00   4697.40    TOROK FORMATION             1452006                                           
+J.W. DALTON 1   5603.00   5633.00   5603.00   5612.50    TOROK FORMATION             1452007                                           
+J.W. DALTON 1   5603.00   5633.00   5612.50   5621.00    TOROK FORMATION             1452008                                           
+J.W. DALTON 1   5603.00   5633.00   5621.00   5630.00    TOROK FORMATION             1452009                                           
+J.W. DALTON 1   6585.00   6615.00   6585.00   6589.30    TOROK FORMATION             1452010                                           
+J.W. DALTON 1   7524.00   7534.00   7524.00   7532.60    PEBBLE SHALE UNIT           1452011                                           
+J.W. DALTON 1   7967.00   8021.00   7967.00   7975.00    LEDGE SANDSTONE MEMBER      1452012                                           
+J.W. DALTON 1   7967.00   8021.00   7975.00   7987.00    LEDGE SANDSTONE MEMBER      1452013                                           
+J.W. DALTON 1   7967.00   8021.00   7987.00   7999.00    LEDGE SANDSTONE MEMBER      1452014                                           
+J.W. DALTON 1   7967.00   8021.00   7999.00   8011.00    LEDGE SANDSTONE MEMBER      1452015                                           
+J.W. DALTON 1   7967.00   8021.00   8011.00   8021.00    LEDGE SANDSTONE MEMBER      1452016                                           
+J.W. DALTON 1   8021.00   8081.00   8022.00   8033.50    LEDGE SANDSTONE MEMBER      1452017                                           
+J.W. DALTON 1   8021.00   8081.00   8033.50   8045.00    LEDGE SANDSTONE MEMBER      1452018                                           
+J.W. DALTON 1   8021.00   8081.00   8045.00   8057.00    LEDGE SANDSTONE MEMBER      1452019                                           
+J.W. DALTON 1   8021.00   8081.00   8057.00   8068.00    LEDGE SANDSTONE MEMBER      1452020                                           
+J.W. DALTON 1   8021.00   8081.00   8065.50   8077.00    LEDGE SANDSTONE MEMBER      1452021                                           
+J.W. DALTON 1   8081.00   8113.00   8081.00   8086.00    LEDGE SANDSTONE MEMBER      1452022                                           
+J.W. DALTON 1   8081.00   8113.00   8086.00   8094.00    LEDGE SANDSTONE MEMBER      1452023                                           
+J.W. DALTON 1   8113.00   8140.00   8113.00   8123.00    LEDGE SANDSTONE MEMBER      1452024                                           
+J.W. DALTON 1   8113.00   8140.00   8123.00   8131.50    LEDGE SANDSTONE MEMBER      1452025                                           
+J.W. DALTON 1   8113.00   8140.00   8131.50   8139.00    LEDGE SANDSTONE MEMBER      1452026                                           
+J.W. DALTON 1   8140.00   8200.00   8140.00   8151.00    LEDGE SANDSTONE MEMBER      1452027                                           
+J.W. DALTON 1   8140.00   8200.00   8151.00   8163.00    LEDGE SANDSTONE MEMBER      1452028                                           
+J.W. DALTON 1   8140.00   8200.00   8163.00   8175.00    LEDGE SANDSTONE MEMBER      1452029                                           
+J.W. DALTON 1   8140.00   8200.00   8175.00   8187.00    LEDGE SANDSTONE MEMBER      1452030                                           
+J.W. DALTON 1   8140.00   8200.00   8187.00   8199.00    LEDGE SANDSTONE MEMBER      1452031                                           
+J.W. DALTON 1   8137.00   8345.00   8317.00   8325.00    LISBURNE GROUP              1452032                                           
+J.W. DALTON 1   8137.00   8345.00   8325.00   8334.00    LISBURNE GROUP              1452033                                           
+J.W. DALTON 1   8137.00   8345.00   8334.00   8341.70    LISBURNE GROUP              1452034                                           
+J.W. DALTON 1   8515.00   8544.00   8515.00   8525.00    LISBURNE GROUP              1452035                                           
+J.W. DALTON 1   8515.00   8544.00   8525.00   8534.00    LISBURNE GROUP              1452036                                           
+J.W. DALTON 1   8515.00   8544.00   8534.00   8543.50    LISBURNE GROUP              1452037                                           
+J.W. DALTON 1   9357.00   9367.00   9357.00   9365.80    BASEMENT                    1452038                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

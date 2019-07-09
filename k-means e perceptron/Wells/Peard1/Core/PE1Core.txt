@@ -1,0 +1,57 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+          CORE      CORE      SLIDE     SLIDE
+WELL NAME START     STOP      START     STOP      STRATIGRAPHIC UNIT                                  IMAGE
+PEARD 1   3034.50   3065.00   3034.00   3047.00   TOROK FORMATION                                     1450031                                           
+PEARD 1   3034.50   3065.00   3047.00   3062.00   TOROK FORMATION                                     1450032                                           
+PEARD 1   3034.50   3065.00   3062.00   3065.00   TOROK FORMATION                                     1450033                                           
+PEARD 1   4278.00   4294.00   4278.00   4289.00   TOROK FORMATION                                     1450033                                           
+PEARD 1   4278.00   4294.00   4289.00   4292.00   TOROK FORMATION                                     1450034                                           
+PEARD 1   5409.00   5421.00   5409.00   5421.00   TOROK FORMATION                                     1450034                                           
+PEARD 1   5906.00   5916.00   5906.00   5916.00   TOROK FORMATION                                     1450035                                           
+PEARD 1   6119.00   6129.00   6119.00   6120.00   TOROK FORMATION                                     1450035                                           
+PEARD 1   6119.00   6129.00   6120.00   6129.00   TOROK FORMATION                                     1450036                                           
+PEARD 1   6403.00   6413.00   6405.00   6410.00   PEBBLE SHALE UNIT                                   1450036                                           
+PEARD 1   6403.00   6413.00   6410.00   6413.00   PEBBLE SHALE UNIT                                   1450037                                           
+PEARD 1   7873.00   7868.00   7837.00   7848.00   KINGAK SHALE                                        1450037                                           
+PEARD 1   7873.00   7868.00   7848.00   7862.00   KINGAK SHALE                                        1450038                                           
+PEARD 1   7873.00   7868.00   7862.00   7868.00   KINGAK SHALE                                        1450039                                           
+PEARD 1   8275.00   8289.00   8275.00   8282.00   KINGAK SHALE                                        1450039                                           
+PEARD 1   8275.00   8289.00   8282.00   8284.00   KINGAK SHALE                                        1450040                                           
+PEARD 1   8451.00   8481.00   8451.00   8461.00   SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450040                                           
+PEARD 1   8451.00   8481.00   8461.00   8476.00   SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450041                                           
+PEARD 1   8451.00   8481.00   8476.00   8478.00   SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450042                                           
+PEARD 1   8977.00   9008.00   8977.00   8988.00   LEDGE SANDSTONE MEMBER                              1450042                                           
+PEARD 1   8977.00   9008.00   8988.00   9002.00   LEDGE SANDSTONE MEMBER                              1450043                                           
+PEARD 1   8977.00   9008.00   9002.00   9008.00   LEDGE SANDSTONE MEMBER                              1450044                                           
+PEARD 1   9490.00   9520.00   9490.00   9497.00   ECHOOKA FORMATION                                   1450044                                           
+PEARD 1   9490.00   9520.00   9497.00   9511.00   ECHOOKA FORMATION                                   1450045                                           
+PEARD 1   9490.00   9520.00   9511.00   9520.00   ECHOOKA FORMATION                                   1450046                                           
+PEARD 1   10215.00  10225.00  10215.00  10219.00  BASEMENT                                            1450046                                           
+PEARD 1   10215.00  10225.00  10219.00  10225.00  BASEMENT                                            1450047                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

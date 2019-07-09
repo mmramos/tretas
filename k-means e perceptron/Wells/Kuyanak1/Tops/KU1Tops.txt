@@ -1,0 +1,31 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Depths to Selected Stratigraphic Horizons
+
+WELL NAME   ROCK UNIT                                   DEPTH, FEET
+KUYANAK 1   Surficial Deposits and/or Gubik Formation   17.00                 
+KUYANAK 1   Nanushuk Group                              75.00                 
+KUYANAK 1   Torok Formation                             1250.00               
+KUYANAK 1   Pebble Shale Unit                           4640.00               
+KUYANAK 1   Kingak Shale                                5160.00               
+KUYANAK 1   Sag River Sandstone                         6245.00               
+KUYANAK 1   Shublik Formation                           6335.00               
+KUYANAK 1   Basement Complex                            6560.00               
+
+Data Source
+Table 15.3. - Total depth and depths to selected stratigraphic horizons
+for Government-drilled wells on the North Slope of Alaska., 
+in:
+
+Gryc, George, Ed., 1988, Geology and exploration of the National Petroleum
+     Reserve in Alaska, 1974 to 1982, U.S. Geological Survey Professional 
+     Paper 1399, Pgs. 322 - 324.

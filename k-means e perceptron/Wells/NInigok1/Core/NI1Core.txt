@@ -1,0 +1,38 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+                 CORE      CORE      SLIDE     SLIDE
+WELL NAME        START     STOP      START     STOP      STRATIGRAPHIC UNIT  IMAGE
+NORTH INIGOK 1   4022.00   4036.50   4022.00   4025.00   TOROK FORMATION     1451005                                           
+NORTH INIGOK 1   4022.00   4036.50   4025.00   4036.50   TOROK FORMATION     1451006                                           
+NORTH INIGOK 1   6852.00   6867.00   6852.00   6861.00   TOROK FORMATION     1451007                                           
+NORTH INIGOK 1   6852.00   6867.00   6861.00   6867.00   TOROK FORMATION     1451008                                           
+NORTH INIGOK 1   7488.00   7506.00   7488.00   7498.00   PEBBLE SHALE UNIT   1451009                                           
+NORTH INIGOK 1   7488.00   7506.00   7498.00   7506.00   PEBBLE SHALE UNIT   1451010                                           
+NORTH INIGOK 1   8563.00   8573.00   8563.00   8573.00   KINGAK SHALE        1451011                                           
+NORTH INIGOK 1   10160.00  10170.00  10160.00  10170.00  SHUBLIK FORMATION   1451012                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

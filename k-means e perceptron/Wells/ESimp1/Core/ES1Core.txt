@@ -1,0 +1,51 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+Core Photographs Information
+Depth units in feet
+
+
+                    CORE      CORE      SLIDE     SLIDE
+WELL NAME           START     STOP      START     STOP      STRATIGRAPHIC UNIT                              IMAGE
+EAST SIMPSON 1      2674.00   2685.00   2674.00   2685.00   NANUSHUK GROUP                                  0462056                                           
+EAST SIMPSON 1      5120.00   5130.00   5120.00   5121.00   TOROK FORMATION                                 0462056                                           
+EAST SIMPSON 1      5120.00   5130.00   5121.00   5133.00   TOROK FORMATION                                 0462057                                           
+EAST SIMPSON 1      6810.00   6870.00   6810.00   6815.00   SAG RIVER SANDSTONE                             0462057                                           
+EAST SIMPSON 1      6810.00   6870.00   6815.00   6828.00   SAG RIVER SANDSTONE                             0462058                                           
+EAST SIMPSON 1      6810.00   6870.00   6828.00   6842.00   SAG RIVER SANDSTONE                             0462059                                           
+EAST SIMPSON 1      6810.00   6870.00   6842.00   6857.00   SAG RIVER SANDSTONE                             0462060                                           
+EAST SIMPSON 1      6810.00   6870.00   6857.00   6870.00   SAG RIVER SANDSTONE                             0462061                                           
+EAST SIMPSON 1      6898.00   6922.00   6897.00   6910.00   SAG RIVER SANDSTONE                             0462062                                           
+EAST SIMPSON 1      6898.00   6922.00   6910.00   6922.00   SAG RIVER SANDSTONE                             0462063                                           
+EAST SIMPSON 1      7426.00   7436.00   7426.00   7428.00   SHUBLIK FORMATION                               0462063                                           
+EAST SIMPSON 1      7426.00   7436.00   7428.00   7436.00   SHUBLIK FORMATION                               0462064                                           
+EAST SIMPSON 1      7468.00   7528.00   7465.00   7476.00   LEDGE SANDSTONE MEMBER                          0462065                                           
+EAST SIMPSON 1      7468.00   7528.00   7476.00   7487.00   LEDGE SANDSTONE MEMBER                          0462066                                           
+EAST SIMPSON 1      7468.00   7528.00   7487.00   7498.00   LEDGE SANDSTONE MEMBER                          0462067                                           
+EAST SIMPSON 1      7468.00   7528.00   7498.00   7503.00   LEDGE SANDSTONE MEMBER                          0462064                                           
+EAST SIMPSON 1      7468.00   7528.00   7503.00   7517.00   LEDGE SANDSTONE MEMBER                          0462068                                           
+EAST SIMPSON 1      7468.00   7528.00   7517.00   7523.00   LEDGE SANDSTONE MEMBER                          0462069                                           
+EAST SIMPSON 1      7564.00   7593.00   7565.00   7574.00   LEDGE SANDSTONE MEMBER, BASEMENT, UNDIVIDED     0462069                                           
+EAST SIMPSON 1      7564.00   7593.00   7574.00   7588.00   LEDGE SANDSTONE MEMBER, BASEMENT, UNDIVIDED     0462070                                           
+EAST SIMPSON 1      7564.00   7593.00   7588.00   7593.00   LEDGE SANDSTONE MEMBER, BASEMENT, UNDIVIDED     0462071                                           
+EAST SIMPSON 1      7729.00   7739.00   7729.00   7738.00   LEDGE SANDSTONE MEMBER, BASEMENT, UNDIVIDED     0462071                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

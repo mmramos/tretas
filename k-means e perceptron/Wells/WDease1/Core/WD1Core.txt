@@ -1,0 +1,64 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Core Photographs Information
+Depth units in feet
+
+
+               CORE      CORE      SLIDE     SLIDE
+WELL NAME      START     STOP      START     STOP      STRATIGRAPHIC UNIT                                                IMAGE
+WEST DEASE 1   600.00    630.00    600.00    609.00    TOROK FORMATION                                                   1450064                                           
+WEST DEASE 1   600.00    630.00    609.00    618.00    TOROK FORMATION                                                   1450065                                           
+WEST DEASE 1   600.00    630.00    618.00    627.00    TOROK FORMATION                                                   1450066                                           
+WEST DEASE 1   1099.00   1129.00   1099.00   1111.00   TOROK FORMATION                                                   1450067                                           
+WEST DEASE 1   1900.00   1930.00   1900.00   1909.00   TOROK FORMATION                                                   1450068                                           
+WEST DEASE 1   1900.00   1930.00   1909.00   1918.00   TOROK FORMATION                                                   1450069                                           
+WEST DEASE 1   1900.00   1930.00   1918.00   1930.00   TOROK FORMATION                                                   1450070                                           
+WEST DEASE 1   2945.00   2975.00   2945.00   2952.00   PEBBLE SHALE UNIT                                                 1450071                                           
+WEST DEASE 1   2945.00   2975.00   2952.00   2964.00   PEBBLE SHALE UNIT                                                 1450072                                           
+WEST DEASE 1   2945.00   2975.00   2964.00   2976.00   PEBBLE SHALE UNIT                                                 1450073                                           
+WEST DEASE 1   3700.00   3730.00   3700.00   3708.00   KINGAK SHALE                                                      1450074                                           
+WEST DEASE 1   3700.00   3730.00   3708.00   3720.00   KINGAK SHALE                                                      1450075                                           
+WEST DEASE 1   3700.00   3730.00   3720.00   3732.00   KINGAK SHALE                                                      1450076                                           
+WEST DEASE 1   3730.00   3790.00   3730.00   3742.00   KINGAK SHALE                                                      1450077                                           
+WEST DEASE 1   3730.00   3790.00   3742.00   3754.00   KINGAK SHALE                                                      1450078                                           
+WEST DEASE 1   3730.00   3790.00   3754.00   3766.00   KINGAK SHALE                                                      1450079                                           
+WEST DEASE 1   3730.00   3790.00   3766.00   3778.00   KINGAK SHALE                                                      1450080                                           
+WEST DEASE 1   3730.00   3790.00   3778.00   3788.00   KINGAK SHALE                                                      1450081                                           
+WEST DEASE 1   3790.00   3850.00   3790.00   3796.50   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450082                                           
+WEST DEASE 1   3790.00   3850.00   3796.50   3805.00   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450083                                           
+WEST DEASE 1   3790.00   3850.00   3805.00   3815.50   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450084                                           
+WEST DEASE 1   3790.00   3850.00   3815.50   3827.00   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450085                                           
+WEST DEASE 1   3790.00   3850.00   3827.00   3839.00   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450086                                           
+WEST DEASE 1   3790.00   3850.00   3839.00   3850.00   KINGAK SHALE, SAG RIVER SANDSTONE, SHUBLIK FORMATION, UNDIVIDED   1450087                                           
+WEST DEASE 1   3912.00   3972.00   3912.00   3918.00   SHUBLIK FORMATION                                                 1450088                                           
+WEST DEASE 1   3912.00   3972.00   3918.30   3926.00   SHUBLIK FORMATION                                                 1450089                                           
+WEST DEASE 1   3912.00   3972.00   3926.00   3937.00   SHUBLIK FORMATION                                                 1450090                                           
+WEST DEASE 1   3912.00   3972.00   3937.00   3947.80   SHUBLIK FORMATION                                                 1450091                                           
+WEST DEASE 1   3912.00   3972.00   3947.80   3958.00   SHUBLIK FORMATION                                                 1450092                                           
+WEST DEASE 1   3912.00   3972.00   3958.00   3969.00   SHUBLIK FORMATION                                                 1450093                                           
+WEST DEASE 1   3973.00   4033.00   3973.00   3981.30   SHUBLIK FORMATION, ARGILLITE, UNDIVIDED                           1450094                                           
+WEST DEASE 1   3973.00   4033.00   3981.30   3992.80   SHUBLIK FORMATION, ARGILLITE, UNDIVIDED                           1450095                                           
+WEST DEASE 1   3973.00   4033.00   3992.80   4003.50   SHUBLIK FORMATION, ARGILLITE, UNDIVIDED                           1450096                                           
+WEST DEASE 1   4150.00   4151.00   4150.00   4151.50   ARGILLITE                                                         1450097                                           
+
+
+Data Source
+Data originally released through:
+
+National Oceanic and Atmospheric Administration
+National Geophysical Data Center
+Boulder, CO
+
+Data Set Name:     Split Well Core on Slides
+Data Set Number:   TGY-0240
+Data Announcement: 83-TGB-09
+

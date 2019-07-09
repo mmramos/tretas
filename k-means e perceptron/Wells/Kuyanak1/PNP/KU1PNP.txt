@@ -1,0 +1,104 @@
+
+Dept. of the Interior
+U.S. Geological Survey
+Energy Resources Team
+
+Selected Data from Eleven Wildcat Wells in 
+the National Petroleum Reserve in Alaska
+
+USGS Open File Report 99-015
+
+
+Permeability, Porosity, and Grain Density Information
+
+Well:  Kuyanak 1
+Location:  North Slope, Alaska
+Data from:  Core Laboratories (3 sheets)
+Dates:  3/20/81, 3/20/81, 3/20/81
+
+
+ Depth   Permeability  Porosity  Grain       Oil       Total    Core Type   Remarks
+  feet    Horizontal   percent   Density  Saturation   Water
+         millidarcies             g/cc     percent    percent
+  5093       0.6         15.6     2.69       0.0       40.2    conventional ss, f-mgr vglauc
+  5094       1.1         14.5     2.85       0.0       46.3    conventional ss, vf-mgr glauc
+  5095       18.0        18.2     2.74       0.0       59.4    conventional ss, vf-mgr glauc
+  5096       53.0        19.8     2.65       0.0       75.9    conventional ss, vf-mgr glauc
+  5097       28.0        20.2     2.66       0.0       66.9    conventional ss, vf-mgr glauc
+  5098       17.0        20.6     2.72       0.0       61.4    conventional ss, vf-mgr glauc
+  5099       19.0        19.4     2.66       0.0       71.0    conventional ss, vf-mgr glauc
+  5100       6.5         17.3     2.68       0.0       72.7    conventional ss, vf-mgr glauc
+  5101       52.0        21.0     2.66       0.0       74.3    conventional ss, vf-mgr glauc
+  5102       32.0        18.6     2.66       0.0       75.3    conventional ss, vf-mgr glauc
+  5103       99.0        20.2     2.64       0.0       70.9    conventional ss, vf-mgr glauc
+  5104      101.0        20.0     2.65       0.0       69.1    conventional ss, vf-mgr glauc
+  5105       54.0        18.5     2.65       0.0       74.2    conventional ss, vf-mgr glauc
+  5106       94.0        19.1     2.64       0.0       66.7    conventional ss, vf-mgr glauc
+  5107       21.0        16.2     2.65       0.0       67.2    conventional ss, vf-mgr glauc
+  5108      244.0        20.1     2.63       0.0       58.5    conventional ss, vf-mgr glauc
+  5109       19.0        14.9     2.68       0.0       76.8    conventional ss, vf-mgr glauc
+  5110      268.0        21.2     2.63       0.0       73.9    conventional ss, vf-mgr glauc
+  5111      123.0        19.5     2.65       0.0       77.7    conventional ss, vf-mgr glauc
+  5112      233.0        20.9     2.63       0.0       77.8    conventional ss, vf-mgr glauc
+  5113       58.0        17.6     2.68       0.0       73.8    conventional ss, vf-mgr glauc
+  5114       51.0        18.8     2.71       0.0       79.4    conventional ss, vf-mgr glauc
+  5115      210.0        20.4     2.65       0.0       76.9    conventional ss, vf-mgr glauc
+  5116      122.0        19.9     2.64       0.0       79.5    conventional ss, vf-mgr glauc
+  5117      249.0        21.1     2.63       0.0       73.4    conventional ss, vf-mgr glauc
+  5118       20.0        17.9     2.65       0.0       74.9    conventional ss, vf-mgr glauc
+  5119      212.0        20.5     2.64       0.0       80.6    conventional ss, vf-mgr glauc
+  5120      182.0        21.5     2.65       0.0       76.8    conventional ss, vf-mgr glauc
+  5121      211.0        21.7     2.64       0.0       71.2    conventional ss, vf-mgr glauc
+  5122       95.0        19.0     2.64       0.0       85.7    conventional ss, vf-mgr glauc
+  5123       77.0        19.2     2.64       0.0       75.1    conventional ss, vf-mgr glauc
+  5124      139.0        21.1     2.64       0.0       80.0    conventional ss, vf-mgr glauc
+  5125       58.0        20.2     2.64       0.0       83.7    conventional ss, vf-mgr glauc
+  5126      233.0        21.5     2.65       0.0       69.4    conventional ss, vf-mgr glauc
+  5127       94.0        20.0     2.65       0.0       81.9    conventional ss, vf-mgr glauc
+  5128      318.0        20.9     2.64       0.0       71.4    conventional ss, vf-mgr glauc
+  5129      280.0        21.4     2.65       0.0       70.7    conventional ss, vf-mgr glauc
+  5130       95.0        18.3     2.64       0.0       81.7    conventional ss, vf-mgr glauc
+  5131      133.0        21.0     2.68       0.0       71.6    conventional ss, vf-mgr glauc
+  5132      165.0        21.6     2.68       0.0       84.7    conventional ss, vf-mgr glauc
+  5133      215.0        21.8     2.73       0.0       87.6    conventional ss, vf-mgr glauc
+  5134       67.0        17.7     2.64       0.0       86.8    conventional ss, vf-mgr glauc
+  5135      286.0        21.9     2.64       0.0       86.4    conventional ss, vf-mgr glauc
+  5136      136.0        19.6     2.64       0.0       86.0    conventional ss, vf-mgr glauc
+  5137       80.0        19.9     2.68       0.0       86.9    conventional ss, vf-mgr glauc
+  5138       23.0        18.6     2.76       0.0       90.5    conventional ss, vf-mgr glauc
+  5139      287.0        22.6     2.63       0.0       86.4    conventional ss, vf-mgr glauc
+  5140      199.0        21.4     2.63       0.0       85.0    conventional ss, vf-mgr glauc
+  5141       25.0        17.3     2.66       0.0       76.2    conventional ss, vf-mgr glauc
+  5142      233.0        20.9     2.63       0.0       87.3    conventional ss, vf-mgr glauc
+  5143      119.0        20.7     2.62       0.0       86.9    conventional ss, vf-mgr glauc
+  5144       33.0        16.9     2.66       0.0       80.6    conventional ss, vf-mgr glauc
+  5145      319.0        22.0     2.64       0.0       75.4    conventional ss, vf-mgr glauc
+  5146      139.0        20.3     2.65       0.0       89.0    conventional ss, vf-mgr glauc
+  5147       97.0        18.2     2.63       0.0       88.3    conventional ss, vf-mgr glauc
+  5148      237.0        20.6     2.63       0.0       85.6    conventional ss, vf-mgr glauc
+  5149      179.0        20.5     2.63       0.0       86.6    conventional ss, vf-mgr glauc
+  5150      185.0        20.8     2.63       0.0       80.3    conventional ss, vf-mgr glauc
+  5153      161.0        20.6     2.63       0.0       87.1    conventional ss, vf-mgr glauc
+  5154       67.0        19.5     2.64       0.0       88.3    conventional ss, vf-mgr glauc
+  5155       64.0        19.3     2.63       0.0       82.3    conventional ss, vf-mgr glauc
+  5156      114.0        19.5     2.62       0.0       84.2    conventional ss, vf-mgr glauc
+  5157      101.0        20.5     2.62       0.0       79.8    conventional ss, vf-mgr glauc
+  5158       32.0        17.5     2.63       0.0       83.2    conventional ss, vf-mgr glauc
+  5159       96.0        20.1     2.63       0.0       87.6    conventional ss, vf-mgr glauc
+  5160       49.0        18.1     2.64       0.0       83.6    conventional ss, vf-mgr glauc
+  5161       55.0        18.3     2.63       0.0       84.0    conventional ss, vf-mgr glauc
+  5162       17.0        16.4     2.64       0.0       66.0    conventional ss, vf-mgr glauc
+  5163       2.2         13.6     2.67       0.0       71.6    conventional ss, vf-mgr glauc, calc
+  5164       0.1         3.0      2.68       0.0       85.3    conventional sltst, vpeb calc
+  6203       0.1         9.7      2.66       0.0       80.4    conventional ss, vfgr fn sh inbd sl calc
+  6204       0.2         11.7     2.69       0.0       77.6    conventional ss, vfgr fn sh inbd sl calc
+  6205       0.1         11.8     2.72       0.0       70.9    conventional ss, vfgr fn sh inbd sl calc
+  6206       0.3         11.8     2.70       0.0       63.8    conventional ss, vfgr fn sh inbd sl calc
+  6207       0.2         10.3     2.69       0.0       70.4    conventional ss, vfgr fn sh inbd sl calc
+  6208       0.1         10.8     2.66       0.0       81.3    conventional ss, vfgr fn sh inbd sl calc
+  6209       0.1         5.4      2.68       0.0       88.0    conventional ss, vfgr sh inbd sl calc
+  6210       0.1         3.1      2.67       0.0       80.4    conventional ss, vfgr sh inbd sl calc
+  6211       0.1         4.1      2.67       0.0       85.2    conventional ss, vfgr sh inbd sl calc
+  6212       0.1         7.7      2.67       0.0       83.7    conventional ss, vfgr fn sh inbd sl calc
+  6213       0.1         8.6      2.65       0.0       82.0    conventional ss, vfgr fn sh inbd sl calc
+  6214       0.1         8.4      2.66       0.0       83.4    conventional ss, vfgr fn sh inbd sl calc
